@@ -9,7 +9,7 @@ Some of the domains that intrigues me :</br>
 -ML</br>
 -Cloud</br>
 
-### Goals
+### Goal
 Most of the time we decide to do achieve "things" but then life happens.This time , without any hard deadlines or expectations I have decided to work on different mini projects and basic coding as well :smile: .I would mainly be focused on improving my skills.</br></br></br>
 
 
