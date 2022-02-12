@@ -10,11 +10,13 @@ Some of the domains that intrigues me :</br>
 -Cloud</br>
 
 ### Goals
+Most of the time we decide to do achieve "things" but then life happens.This time , without any hard deadlines or expectations I have decided to work on different mini projects and basic coding as well :smile: .I would mainly be focused on improving my skills.</br></br></br>
 
-Most of the time we decide to do achieve "things" but then life happens.This time , without any hard deadlines or expectations I have decided to work on different mini projects and basic coding as well :smile: .I would mainly be focused on improving my skills.
+
+
 
 <p align='center'>
-  If you liked my projects you <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
+  If you liked my projects, <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
 </p>
 
 ### Get in touch:mailbox:
