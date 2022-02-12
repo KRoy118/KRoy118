@@ -18,7 +18,6 @@ Most of the time we are determined to do "things" but then life happens.This tim
 <a href="https://www.hackerearth.com/@katha4">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
   </a>&nbsp;&nbsp;
-<!--&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/katharoy1181">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>&nbsp;&nbsp;
