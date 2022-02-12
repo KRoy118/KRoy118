@@ -18,8 +18,9 @@ Most of the time we decide to do achieve "things" but then life happens.This tim
 **Website**: https://kroy118.github.io/
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    <--<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;--!>
+  **LinkedIn**: https://www.linkedin.com/in/katha-roy118/
   
 
 
