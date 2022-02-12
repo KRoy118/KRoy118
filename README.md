@@ -2,7 +2,7 @@
 
 Hello there 👋 ! Katha here :blush:
 
-I am a tech enthusiast. I like exploring various aspects of technology.
+I am a tech enthusiast. I like exploring various aspects of technology.</br>
 Some of the domains that intrigues me :
 -OOP
 -WebDev
@@ -15,7 +15,7 @@ Most of the time we decide to do achieve "things" but then life happens.This tim
 
 ### Get in touch:mailbox:
 
-**Website**: https://kroy118.github.io/
+**Website**: https://kroy118.github.io/  </br>
  **LinkedIn**: https://www.linkedin.com/in/katha-roy118/
 <!--&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alexandresanlim/">
