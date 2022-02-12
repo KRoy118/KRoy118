@@ -16,5 +16,10 @@ Most of the time we decide to do achieve "things" but then life happens.This tim
 ### Get in touch:mailbox:
 
 **Website**: https://kroy118.github.io/
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/https://www.linkedin.com/in/katha-roy118/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+
 
