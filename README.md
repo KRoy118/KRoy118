@@ -16,5 +16,5 @@ Most of the time we decide to do achieve "things" but then life happens.This tim
 ### Get in touch:mailbox:
 
 **Website**: https://kroy118.github.io/
-![image](":https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
+
 
