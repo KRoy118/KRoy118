@@ -2,8 +2,7 @@
 
 Hello there 👋 ! Katha here :blush:
 
-I am a tech enthusiast. I like exploring various aspects of technology.</br>
-Some of the topics i find lit 😬 (not that I'm good at all of these,duh!) :-</br>
+I am a tech enthusiast. I like exploring various aspects of technology.Some of the topics i find lit 😬 (not that I'm good at all of these,duh!) :-</br>
 -OOP</br>
 -WebDev</br>
 -ML</br>
