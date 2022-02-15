@@ -7,9 +7,9 @@ I am a tech enthusiast. I like exploring various aspects of technology.Some of t
 -WebDev</br>
 -ML</br>
 -Cloud</br>
--Blockchain
--Food
--Sleep
+-Blockchain</br>
+-Food</br>
+-Sleep</br>
 </br></br> 
 ### My Workspaces
 &nbsp;&nbsp;
